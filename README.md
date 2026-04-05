@@ -45,10 +45,7 @@ Custom Triton kernel acceleration for [Z-Image](https://huggingface.co/Tongyi-MA
 
 ### Option 1: ComfyUI Manager (Recommended)
 
-In ComfyUI Manager, use **Install via Git URL** and paste:
-```
-https://github.com/newgrit1004/ComfyUI-ZImage-Triton.git
-```
+Search for **"ZImage Triton"** in ComfyUI Manager and install directly. Also available on the [ComfyUI Registry](https://registry.comfy.org).
 
 ### Option 2: Manual
 
