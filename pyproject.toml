@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-zimage-triton"
+description = "Triton kernel acceleration + W8A8 INT8 quantization for Z-Image S3-DiT in ComfyUI"
+version = "1.0.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = ["triton>=3.1.0", "scipy>=1.10.0"]
+
+[project.urls]
+Repository = "https://github.com/newgrit1004/ComfyUI-ZImage-Triton"
+
+[tool.comfy]
+PublisherId = "newgrit1004"
+DisplayName = "ZImage Triton Accelerate"
+Icon = ""

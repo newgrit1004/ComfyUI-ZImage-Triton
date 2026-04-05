@@ -1,0 +1,34 @@
+# Custom
+scripts/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Environments
+.venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+pyrightconfig.json
+
+# Claude Code
+.claude/plans/
+.omc/
+
+# Old template tools
+.skylos/
+.sisyphus
+.complexipy_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Benchmark artifacts
+benchmark/comfyui/*.safetensors
+
+# Misc
+*.log
